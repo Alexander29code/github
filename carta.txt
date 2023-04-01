@@ -4,8 +4,6 @@ LINEA 34
 LINEA 4
 LINEA 5
 LINEA 6
-<<<<<<< HEAD
-LINEA 8
-=======
 LINEA 7
->>>>>>> origin/master
+LINEA 8
+
